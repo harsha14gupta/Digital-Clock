@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.Time {
+  height: 20vh;
+  color: black;
+  font-size: 14vh;
+  font-family: sans-serif;
+  line-height: 20.4vh;
+  display: flex;
+  position: relative;
+}
